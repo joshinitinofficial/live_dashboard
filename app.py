@@ -6,7 +6,7 @@ import pandas as pd
 import streamlit as st
 
 
-st.set_page_config(page_title="Backtest Trade Dashboard jQuant", layout="wide")
+st.set_page_config(page_title="Backtest Trade Dashboard jQuant pulled", layout="wide")
 
 
 REQUIRED_COLUMNS = {"Exit Date", "PnL"}
